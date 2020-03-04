@@ -13,6 +13,8 @@
 # Dump of table municipios
 # ------------------------------------------------------------
 
+<script>alert(3);</script>
+
 CREATE TABLE `municipios` (
   `id_municipio` smallint(6) unsigned NOT NULL AUTO_INCREMENT,
   `id_provincia` smallint(6) NOT NULL,
